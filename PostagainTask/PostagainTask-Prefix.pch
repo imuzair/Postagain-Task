@@ -1,0 +1,19 @@
+//
+//  PostagainTask-Prefix.pch
+//  PostagainTask
+//
+//  Created by uzair on 02/09/2015.
+//  Copyright (c) 2015 Postagain. All rights reserved.
+//
+
+#ifndef PostagainTask_PostagainTask_Prefix_pch
+#define PostagainTask_PostagainTask_Prefix_pch
+
+#import "BaseViewController.h"
+#import "Constants.h"
+#import "Alert.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif

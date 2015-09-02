@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "XMPPClass.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
